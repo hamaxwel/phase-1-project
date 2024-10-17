@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "name": "fresh milk",
+      "description": "fresh milk from our cattle",
+      "price": 60,
+      "available": true,
+      "stock": 100,
+      "imageUrl": "./images/milk.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Goat cheese",
+      "description": "the best goat cheese in town",
+      "price": 1000,
+      "available": true,
+      "stock": 200,
+      "imageUrl": "./images/cheese.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Free-range Eggs",
+      "description": "Fresh eggs laid by free-range chickens.",
+      "price": 10,
+      "available": true,
+      "stock": 200,
+      "imageUrl": "./images/eggs.jpg"
+    },
+    {
+      "id": "7766",
+      "name": "mangoes",
+      "description": "Freshly harvested mangoes.",
+      "price": 100,
+      "available": true,
+      "stock": 100,
+      "imageUrl": "./images/mangoes.jpg"
+    },
+    {
+      "id": "6f7f",
+      "name": "vegetables",
+      "description": "fresh vegetables",
+      "price": 50,
+      "available": true,
+      "stock": 200,
+      "imageUrl": "/images/vegetables.jpg"
+    }
+  ],
+  "workshops": [
+    {
+      "id": "1",
+      "name": "Sustainable Farming 101",
+      "date": "2024-10-20",
+      "description": "Learn the basics of sustainable farming, including soil management and crop rotation.",
+      "price": 200,
+      "capacity": 20,
+      "location": "Mbere farm",
+      "time": "10:00am - 1:00pm",
+      "imageUrl": "./images/farming 101.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cheese Making",
+      "date": "2024-11-10",
+      "description": "A hands-on workshop to learn the art of making goat cheese.",
+      "price": 300,
+      "capacity": 15,
+      "location": "Mbere farm",
+      "time": "1:00pm - 4:00pm",
+      "imageUrl": "./images/last.jpg"
+    }
+  ]
+}
