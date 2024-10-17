@@ -35,7 +35,7 @@ function displayProducts(products) {
 
       // Function to view an individual product
 function viewProduct(productId) {
-    fetch(`https://phase-1-project-f05d.onrender.com/products/products`) 
+    fetch(`https://phase-1-project-f05d.onrender.com/products`) 
         .then(response => {
             if (!response.ok) {
                 throw new Error('Product not found');
