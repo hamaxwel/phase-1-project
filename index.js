@@ -1,5 +1,5 @@
-const apiUrl = 'http://localhost:3001/products'; 
-const workshopsApiUrl = 'http://localhost:3001/workshops'; 
+const apiUrl = 'https://phase-1-project-f05d.onrender.com/products'; 
+const workshopsApiUrl = 'https://phase-1-project-f05d.onrender.com/workshops'; 
 
 // Function to Fetch All Products and display them
 function getAllProducts() {
@@ -35,7 +35,7 @@ function displayProducts(products) {
 
       // Function to view an individual product
 function viewProduct(productId) {
-    fetch(`http://localhost:3001/products/${productId}`) 
+    fetch(`https://phase-1-project-f05d.onrender.com/products/products`) 
         .then(response => {
             if (!response.ok) {
                 throw new Error('Product not found');
