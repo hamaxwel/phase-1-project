@@ -51,6 +51,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Live Demo
 [Click here to view the live version](https://hamaxwel.github.io/phase-1-project/)
+##
 [Check out the live demo here!](https://phase-1-project-f05d.onrender.com)
 
 ## License
