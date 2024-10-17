@@ -28,6 +28,12 @@ JSON Server (to simulate a RESTful API for data management)
 Fetch API (for making HTTP requests to the backend)
 Version Control:
 
+## Setup/Installation Instruction
+Download a zip in the code button to the desired folder
+Extract the files
+Open the extracted folder with VSCode
+Go live or open the index.html file with chrome
+And you are all done.
 
 ## Usage
 Add new crops, livestock, or resources using the forms provided.
@@ -46,4 +52,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 This project is licensed under the MIT License.
 
-Feel free to customize this template to better suit your project details and specifics!
+Feel free to customize this template to better suit your project details and specifics! for support feel free to reach me via email maxwelkirimii@gmail.com
