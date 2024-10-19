@@ -36,13 +36,13 @@ Go live or open the index.html file with chrome
 And you are all done.
 
 ## Usage
-Add new crops, livestock, or resources using the forms provided.
+Add new resources using the forms provided.
 View details, edit, or delete entries directly from the lists.
 Use the search bar to filter through existing records.
 Manage your farm's operations with ease and keep track of all relevant data in one place.
 
 ## Known Bugs
-Deleting a resource or livestock entry may not immediately reflect on the list due to caching issues. Refreshing the page resolves the issue.
+Deleting a resource may not immediately reflect on the list. Refreshing the page resolves the issue.
 In some cases, the input validation messages may not display correctly when adding or updating entries.
 Editing an entry might not always close the modal after submission; manually closing it is required.
 
@@ -64,4 +64,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 This project is licensed under the MIT License.
 
-Feel free to customize this template to better suit your project details and specifics! for support feel free to reach me via email maxwelkirimii@gmail.com
+Feel free to customize this template to better suit your project details and specifics! for support, reach me via email maxwelkirimii@gmail.com
