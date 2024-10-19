@@ -59,7 +59,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## Available Links
 * You can view my Presentations slides on: https://docs.google.com/presentation/d/1JeXLtt0obancMz76c6bTcghy6CKuB5TI/edit?usp=sharing&ouid=114285815505133551199&rtpof=true&sd=true
 
-* You can view my video  Presentation on : https://www.awesomescreenshot.com/video/32658463?key=912af887b3861825316d26ee576d7d18
+* You can view my video  Presentation on : https://drive.google.com/file/d/1Yhnxnn30u98o5cEznRlxy6jP_yXA7Kga/view?usp=sharing
 
 ## License
 This project is licensed under the MIT License.
